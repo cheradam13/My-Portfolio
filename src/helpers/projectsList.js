@@ -13,6 +13,9 @@ import project04Big from "./../img/projects/04.jpg";
 import project05 from "./../img/projects/05.jpg";
 import project05Big from "./../img/projects/05.jpg";
 
+import project06 from "./../img/projects/06.jpg";
+import project06Big from "./../img/projects/06.jpg";
+
 const projects = [
 	{
 		title: 'Lagoona',
@@ -53,6 +56,13 @@ const projects = [
 		imgBig: project05Big,
 		gitHubLink: 'https://github.com/cheradam13/Blanchard',
 		liveSiteLink: "https://cheradam13.github.io/Blanchard/",
+	},
+	{
+		title: 'Earth',
+		skills: 'WordPress',
+		img: project06,
+		imgBig: project06Big,
+		liveSiteLink: "http://ch13110-wordpress-n34mo.tw1.ru/",
 	},
 ];
 
