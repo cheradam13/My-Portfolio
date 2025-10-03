@@ -58,11 +58,11 @@ const projects = [
 		liveSiteLink: "https://cheradam13.github.io/Blanchard/",
 	},
 	{
-		title: 'Earth',
-		skills: 'WordPress',
+		title: 'Foodi',
+		skills: 'WordPress, Elementor',
 		img: project06,
 		imgBig: project06Big,
-		liveSiteLink: "http://ch13110-wordpress-n34mo.tw1.ru/",
+		liveSiteLink: "http://adamcher.atwebpages.com/#",
 	},
 ];
 
